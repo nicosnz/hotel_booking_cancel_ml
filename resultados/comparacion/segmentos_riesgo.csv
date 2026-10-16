@@ -1,0 +1,4 @@
+riesgo,Reservas,% del total,Tasa real de cancelacion
+Bajo (<0.3),13335,62.7707,0.0797
+Medio (0.3-0.7),5272,24.8164,0.4972
+Alto (>0.7),2637,12.4129,0.8377
